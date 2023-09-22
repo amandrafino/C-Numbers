@@ -8,7 +8,7 @@ int main(void) {
 }
 
 void doTheMath() {
-    // Declare and initialize variables
+    // Declare and initialize the variables
     float dividend;
     float divisor;
     float result;
